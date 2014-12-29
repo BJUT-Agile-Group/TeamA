@@ -41,7 +41,7 @@ Git使用说明：
 	git add -A
 	git commit -am '本次代码修改概述'
 	
-### 2. 推送代码至Githb
+### 2. 推送代码至Github
 
 	git pull --reb origin master
 	
