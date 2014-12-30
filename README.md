@@ -5,15 +5,13 @@ Wiki
 
 | 组长 |  代码仓库名称|
 |:-:|---|
-|陈全保  | Pos-Team1 |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
-|  |  |
+|闫琦  | Pos-Team1 |
+| 陈全保 | Pos-Team2 |
+| 洪鑫 | Pos-Team3 |
+| 张立波 |  Pos-Team4|
+| 沈思源 | Pos-Team5 |
+| 徐恒远 | Pos-Team6 |
+| 刘鑫 | Pos-Team7  |
 
 
 Git使用说明：
